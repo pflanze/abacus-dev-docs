@@ -13,5 +13,6 @@ developer team is however encouraged to fix these documents if they feel like it
 
 ## Our documentation
 
+* [How the `polling_stations` and `data_entry` tables work together](polling_stations_and_data_entry.md)
 
 <!-- * On documentatie/state-machines/data-entry-state.md -->
